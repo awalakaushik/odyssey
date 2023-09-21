@@ -21,7 +21,7 @@
     "@apollo/server": "^4.7.5",
     "@graphql-tools/mock": "^9.0.0",
     "@graphql-tools/schema": "^10.0.0",
-    "graphql": "^16.7.1",
+    "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6"
   }
 }
